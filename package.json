@@ -1,0 +1,17 @@
+{
+  "name": "bluetooth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ertrzyiks <mateusz.derks@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluetooth-serial-port": "^1.2.6",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "inquirer": "^0.11.3"
+  }
+}
